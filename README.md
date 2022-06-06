@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Hello folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="15px">
+# Hello folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="25px">
 
 
 My name is shreyas mohite and I am a fullstack web developer 💻 . I'm from India  and currently pursuing my MCA.
