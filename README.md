@@ -20,9 +20,9 @@ My name is shreyas mohite and I am a fullstack web developer 💻 . I'm from Ind
 
 <br>
 
-## ✍️ Blog & Writting
+<!-- ## ✍️ Blog & Writting
 
-Apart from coding. I am also maintains a blog on my website [shreyasmohiteblog](https://shreyasmohiteblog.herokuapp.com "shreyasmohiteblog")
+Apart from coding. I am also maintains a blog on my website [shreyasmohiteblog](https://shreyasmohiteblog.herokuapp.com "shreyasmohiteblog") -->
 
 <br>
 
