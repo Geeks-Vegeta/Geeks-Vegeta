@@ -81,6 +81,7 @@ $\color{green}{master@shreyas}\color{purple}{:}$~$ ls contact
 <a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~Medium</a>
 <a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~Dev.to</a>
 
-
-
-
+<div>
+<img src="https://github.com/Geeks-Vegeta/Geeks-Vegeta/blob/main/Images/master-removebg-preview.png" />
+<img height="25" src="https://thumbs.gfycat.com/IllustriousIcyIggypops-max-1mb.gif" />
+</div>
