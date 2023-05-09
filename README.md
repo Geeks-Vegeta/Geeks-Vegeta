@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.--->
 \
 ![vegeta](/Images/dance-vegeta.gif) -->
 
-$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp;  $\color{red}{draw}$ $\color{red}{ascii}$ -t bubblehead "shreyas mohite"
+$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp;  $\color{red}{draw}$ ascii -t bubblehead "shreyas mohite"
 <div>
 <img src="https://github.com/Geeks-Vegeta/Geeks-Vegeta/blob/main/Images/shreyas-removebg-preview.png" />
 </div>
@@ -29,17 +29,16 @@ $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$
 <a href="https://github.com/Geeks-Vegeta">~accomplishment</a>
 <a href="https://github.com/Geeks-Vegeta">~contact</a>
 
-$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$ $\color{red}{skills}$
-
+$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$ skills
 <a href="https://github.com/Geeks-Vegeta">~softskill.txt</a> 
 <a href="https://github.com/Geeks-Vegeta">~techskills</a> 
 
-$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{cd}$ $\color{red}{skills}$
+$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{cd}$ skills
 
 
-$\color{green}{master@shreyas}\color{purple}{:}$~/skills$ &nbsp; $\color{red}{cat}$ $\color{red}{softskill.txt}$ 
+$\color{green}{master@shreyas}\color{purple}{:}$~/skills$ &nbsp; $\color{red}{cat}$ softskill.txt
 
-$\color{green}{master@shreyas}\color{purple}{:}$~/skills$ &nbsp; $\color{red}{ls}$ $\color{red}{techskill}$
+$\color{green}{master@shreyas}\color{purple}{:}$~/skills$ &nbsp; $\color{red}{ls}$ techskill.txt
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
@@ -47,7 +46,7 @@ $\color{green}{master@shreyas}\color{purple}{:}$~/skills$ &nbsp;  $\color{red}{c
 
 $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp;  cd accomplishment
 
-$\color{green}{master@shreyas}\color{purple}{:}$~/accomplishment$ &nbsp;  ls && fim -a *.png 
+$\color{green}{master@shreyas}\color{purple}{:}$~/accomplishment$ &nbsp;  $\color{red}{ls}$ && fim -a *.png 
 
 <a href="https://github.com/Geeks-Vegeta">~trophies.png</a> 
 <a href="https://github.com/Geeks-Vegeta">~stats.png</a>
@@ -63,9 +62,9 @@ $\color{green}{master@shreyas}\color{purple}{:}$~/accomplishment$ &nbsp;  ls && 
 </div>
 
 
-$\color{green}{master@shreyas}\color{purple}{:}$~/accomplishment$ &nbsp;  cd ..
+$\color{green}{master@shreyas}\color{purple}{:}$~/accomplishment$ &nbsp;  $\color{red}{cd}$ ..
 
-$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; ls contact
+$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$ contact
 \
 <a href="https://www.linkedin.com/in/shreyas-mohite-6855621a5/">~LinkedIn</a> 
 <a href="https://github.com/Geeks-Vegeta">~Github</a>
