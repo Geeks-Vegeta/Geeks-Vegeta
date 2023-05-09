@@ -75,6 +75,6 @@ $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$ cont
 <a href="https://dev.to/geeksvegeta">~Dev.to</a>
 
 <div>
-<img height="25" src="https://github.com/Geeks-Vegeta/Geeks-Vegeta/blob/main/Images/master-removebg-preview.png" />
-<img height="25" src="https://thumbs.gfycat.com/IllustriousIcyIggypops-max-1mb.gif" />
+master@shreyas:~$ <img height="25" src="https://thumbs.gfycat.com/IllustriousIcyIggypops-max-1mb.gif" />
 </div>
+
