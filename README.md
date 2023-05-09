@@ -12,16 +12,10 @@ You can click the Preview link to take a look at your changes.--->
 \
 ![vegeta](/Images/dance-vegeta.gif) -->
 
-$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp;  draw ascii -t wir "Shreyas Mohite"
-<pre style="background":"#ffffff">
-                                                                                                       █▒▒             
-         █▒▒                                                                            █▒▒       █▒   █▒▒             
-  █▒▒▒▒  █▒▒         █▒▒     █▒▒   █▒▒    █▒▒      █▒▒▒▒       █▒▒▒ █▒▒ █▒▒     █▒▒     █▒▒          █▒█▒ █▒    █▒▒    
- █▒▒     █▒ █▒     █▒   █▒▒    █▒▒▒▒▒   █▒▒  █▒▒  █▒▒           █▒▒  █▒  █▒▒  █▒▒  █▒▒  █▒ █▒    █▒▒   █▒▒    █▒   █▒▒ 
-   █▒▒▒  █▒▒  █▒▒ █▒▒▒▒▒ █▒▒     █▒▒   █▒▒   █▒▒    █▒▒▒        █▒▒  █▒  █▒▒ █▒▒    █▒▒ █▒▒  █▒▒ █▒▒   █▒▒   █▒▒▒▒▒ █▒▒
-     █▒▒ █▒   █▒▒ █▒            █▒▒    █▒▒   █▒▒      █▒▒       █▒▒  █▒  █▒▒  █▒▒  █▒▒  █▒   █▒▒ █▒▒   █▒▒   █▒        
- █▒▒ █▒▒ █▒▒  █▒▒   █▒▒▒▒    █▒▒▒▒       █▒▒ █▒▒▒ █▒▒ █▒▒      █▒▒▒  █▒  █▒▒    █▒▒     █▒▒  █▒▒ █▒▒    █▒▒    █▒▒▒▒   
-</pre>
+$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp;  draw ascii -t bubblehead "shreyas mohite"
+<div>
+<img src="https://github.com/Geeks-Vegeta/Geeks-Vegeta/blob/main/Images/shreyas-removebg-preview.png" />
+</div>
                                              
 
 $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp;  whoami \
