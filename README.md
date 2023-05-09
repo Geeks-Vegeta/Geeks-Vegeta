@@ -57,6 +57,10 @@ $\color{green}{master@shreyas}\color{purple}{:}$~$ ls accomplishment
 <a href="https://github.com/Geeks-Vegeta">~top-lang.png</a>
 <a href="https://github.com/Geeks-Vegeta">~stats.png</a>
 
+$\color{green}{master@shreyas}\color{purple}{:}$~$ fim -a *.png 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geeks-Vegeta&layout=compact)](https://github.com/Geeks-Vegeta)
+
 $\color{green}{master@shreyas}\color{purple}{:}$~$ ls contact
 \
 <a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~LinkedIn</a> 
