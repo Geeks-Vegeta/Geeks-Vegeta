@@ -67,13 +67,13 @@ $\color{green}{master@shreyas}\color{purple}{:}$~/accomplishment$ &nbsp;  cd ..
 
 $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; ls contact
 \
-<a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~LinkedIn</a> 
-<a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~Github</a>
-<a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~LeetCode</a>
+<a href="https://www.linkedin.com/in/shreyas-mohite-6855621a5/">~LinkedIn</a> 
+<a href="https://github.com/Geeks-Vegeta">~Github</a>
+<a href="https://leetcode.com/Geeks-Vegeta/">~LeetCode</a>
 <a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~Contact</a>
 <a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~Resume</a>
-<a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~Medium</a>
-<a href="https://github.com/Geeks-Vegeta/Geeks-Vegeta/edit/main/README.md">~Dev.to</a>
+<a href="https://medium.com/@shreyas_mohite">~Medium</a>
+<a href="https://dev.to/geeksvegeta">~Dev.to</a>
 
 <div>
 <img height="25" src="https://github.com/Geeks-Vegeta/Geeks-Vegeta/blob/main/Images/master-removebg-preview.png" />
