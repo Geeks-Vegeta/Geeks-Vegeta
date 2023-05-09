@@ -29,11 +29,11 @@ $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$
 <a href="https://github.com/Geeks-Vegeta">~accomplishment</a>
 <a href="https://github.com/Geeks-Vegeta">~contact</a>
 
-$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$ skills
+$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{ls}$  skills \
 <a href="https://github.com/Geeks-Vegeta">~softskill.txt</a> 
 <a href="https://github.com/Geeks-Vegeta">~techskills</a> 
 
-$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{cd}$ skills
+$\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{cd}$  skills
 
 
 $\color{green}{master@shreyas}\color{purple}{:}$~/skills$ &nbsp; $\color{red}{cat}$ softskill.txt
