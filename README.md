@@ -19,7 +19,7 @@ $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp;  $\color{red}{draw}$ a
                                              
 
 $\color{green}{master@shreyas}\color{purple}{:}$~$ &nbsp; $\color{red}{whoami}$ \
-Hi! I am Shreyas Mohite <br> I am currently pursuing MCA(2021-2022). Proud to say that I thoroughly understand Programming fundamentals, hold some good coding profiles and has some cool projects. This site will help you to find me easily and to showcase some of my skills
+Hi! I am Shreyas Mohite <br> I am currently pursuing MCA(2021-2023). Proud to say that I thoroughly understand Programming fundamentals, hold some good coding profiles and has some cool projects. This site will help you to find me easily and to showcase some of my skills
 
 
 
