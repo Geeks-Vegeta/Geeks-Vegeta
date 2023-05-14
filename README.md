@@ -58,7 +58,7 @@ $\color{green}{master@shreyas}\color{purple}{:}$~/accomplishment$ &nbsp;  $\colo
 
 <div>
 <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=Geeks-Vegeta&show_icons=true&theme=radical" alt="shreyas's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeks-Vegeta&layout=compact" alt="shreyas's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geeks-Vegeta&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="shreyas's github stats" />
 </div>
 
 
